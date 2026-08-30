@@ -4,15 +4,15 @@
 
 | Module | Exercises | What You'll Master |
 |--------|-----------|-------------------|
-| **Module 1: Foundation** | 1–3 | Zoho CRM login, interface navigation, profile setup |
-| **Module 2: Data Import** | 4–10 | Importing Leads, Accounts, Contacts, Deals, Products, Tasks, Calls |
-| **Module 3: Customization** | 11–13 | Custom fields (cat info, payment status), custom "Cat Profiles" module, layout rearrangement |
-| **Module 4: Daily KAM Work** | 14–18 | Lead conversion, reorder cycle tasks, call logging, payment tracking, at-risk account retention |
-| **Module 5: Sales & Growth** | 19–21 | Subscription pipeline creation, upsell deals, referral tracking |
-| **Module 6: Automation** | 22–24 | Workflow rules (auto-tasks), assignment rules, Blueprint onboarding |
-| **Module 7: Reports & Dashboards** | 25–28 | Subscriber reports, revenue reports, churn analysis, KAM dashboard |
-| **Module 8: Advanced Skills** | 29–35 | Custom views, mass updates, email templates, quotes, mobile app, data hygiene, full KAM week simulation |
-| **Module 9: Expert Bonus** | 36–40 | Web forms, WhatsApp integration, churn scores, territory management, year-end review |
+| [**Module 1: Foundation**](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/tree/main/Module%201%3A%20Foundation) | 1–3 | Zoho CRM login, interface navigation, profile setup |
+| [**Module 2: Data Import**](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/tree/main/Module%202%3A%20Data%20Import) | 4–10 | Importing Leads, Accounts, Contacts, Deals, Products, Tasks, Calls |
+| [**Module 3: Customization**](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/tree/main/Module%203%3A%20Customization) | 11–13 | Custom fields (cat info, payment status), custom "Cat Profiles" module, layout rearrangement |
+| [**Module 4: Daily KAM Work**](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/tree/main/Module%204%3A%20Daily%20KAM%20Work) | 14–18 | Lead conversion, reorder cycle tasks, call logging, payment tracking, at-risk account retention |
+| [**Module 5: Sales & Growth**](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/tree/main/Module%205%3A%20Sales%20%26%20Growth) | 19–21 | Subscription pipeline creation, upsell deals, referral tracking |
+| [**Module 6: Automation**](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/tree/main/Module%206%3A%20Automation) | 22–24 | Workflow rules (auto-tasks), assignment rules, Blueprint onboarding |
+| [**Module 7: Reports & Dashboards**](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/tree/main/Module%207%3A%20Reports%20%26%20Dashboards) | 25–28 | Subscriber reports, revenue reports, churn analysis, KAM dashboard |
+| [**Module 8: Advanced Skills**](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/tree/main/Module%208%3A%20Advanced%20Skills) | 29–35 | Custom views, mass updates, email templates, quotes, mobile app, data hygiene, full KAM week simulation |
+| [**Module 9: Expert Bonus**](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/tree/main/Module%209%3A%20Expert%20Bonus) | 36–40 | Web forms, WhatsApp integration, churn scores, territory management, year-end review |
 
 Every exercise includes:
 - **What you will learn** and **Why this matters**
