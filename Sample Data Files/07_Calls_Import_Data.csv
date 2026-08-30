@@ -1,0 +1,16 @@
+Call To,Related To,Call Type,Outgoing Call Status,Call Start Time,Call Duration,Subject,Call Purpose,Description
+Aarav Sharma,Aarav Sharma,Outgoing,Completed,2026-08-01 10:30,5 min,August reorder confirmation,Reorder,Confirmed reorder for 1x Chicken Adult 2kg. Payment link sent. Expected delivery Aug 5.
+Priya Patel,Priya Patel,Outgoing,Completed,2026-08-01 11:15,8 min,SKU confirmation call,Reorder,Confirmed 2x Chicken Adult 2kg for bi-weekly cycle. No changes needed.
+Vikram Reddy,Vikram Reddy,Outgoing,Completed,2026-08-01 14:00,4 min,Payment reminder call,Payment,Reminded about pending payment. Customer promised to pay by EOD.
+Sneha Nair,Sneha Nair,Outgoing,No Answer,2026-08-01 15:30,0 min,Win-back attempt - no answer,Retention,"Called twice, no answer. Left WhatsApp message with offer."
+Rahul Gupta,Rahul Gupta,Outgoing,Completed,2026-08-02 10:00,6 min,Upsell treats discussion,Upsell,Customer interested in dental treats. Added to next order.
+Ananya Iyer,Ananya Iyer,Outgoing,Completed,2026-08-02 11:45,12 min,Quarterly renewal call,Renewal,Customer agreed to quarterly renewal. Sent payment link for ₹6999.
+Karthik Menon,Karthik Menon,Outgoing,Completed,2026-08-02 14:30,5 min,Reorder confirmation,Reorder,Confirmed monthly reorder via WhatsApp. Payment link sent.
+Meera Desai,Meera Desai,Outgoing,Completed,2026-08-02 16:00,7 min,Payment follow-up call,Payment,Payment received during call. Updated status in system.
+Arjun Rao,Arjun Rao,Outgoing,Completed,2026-08-03 10:15,9 min,Treats upsell call,Upsell,Sold 2x Hairball Treats. Customer happy with recommendation.
+Divya Kumar,Divya Kumar,Outgoing,Completed,2026-08-03 11:30,4 min,New parent check-in,Support,Provided feeding tips. Customer feels more confident now.
+Nikhil Joshi,Nikhil Joshi,Outgoing,Completed,2026-08-03 14:45,6 min,Referral program introduction,Referral,Customer excited about referral program. Will share with 3 friends.
+Pooja Malhotra,Pooja Malhotra,Outgoing,Completed,2026-08-03 15:15,10 min,Quarterly benefits call,Renewal,Explained quarterly savings. Customer appreciated the transparency.
+Siddharth Venkat,Siddharth Venkat,Outgoing,No Answer,2026-08-04 10:00,0 min,Multi-cat plan discussion - no answer,Upsell,No answer. Will try again tomorrow. Sent email with bundle details.
+Kavya Rao,Kavya Rao,Outgoing,Completed,2026-08-04 11:00,8 min,Delivery complaint resolution,Support,Apologized for delay. Offered free treats. Customer satisfied.
+Rohan Bhat,Rohan Bhat,Outgoing,Completed,2026-08-04 14:30,11 min,Retention call - saved account,Retention,Customer was cancelling due to price. Offered pause option. Customer stayed!
