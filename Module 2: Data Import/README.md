@@ -1,6 +1,6 @@
 ---
 
-## MODULE 2: DATA IMPORT — Bringing TrueHunt Data into Zoho CRM
+## MODULE 2: DATA IMPORT — Bringing TrueHunter Data into Zoho CRM
 
 ---
 
@@ -8,11 +8,11 @@
 
 **What you will learn:** How to bring a list of potential cat parents into Zoho CRM from a file.
 
-**Why this matters:** TrueHunt gets leads from Instagram, WhatsApp, and referrals. You need to load them all into the system.
+**Why this matters:** TrueHunter gets leads from Instagram, WhatsApp, and referrals. You need to load them all into the system.
 
 **PREPARATION:**
 - Download the file: `01_Leads_Import_Data.csv`
-- Save it to your Desktop in a folder called `TrueHunt_Zoho_Practice`
+- Save it to your Desktop in a folder called `TrueHunter_Zoho_Practice`
 
 **STEP-BY-STEP:**
 
@@ -21,7 +21,7 @@
 3. Click **"Import"**.
 4. A new screen appears. Select **"Leads"** as the module if it asks.
 5. Click **"Browse"** or **"Choose File"**.
-6. Navigate to your Desktop. Open the `TrueHunt_Zoho_Practice` folder.
+6. Navigate to your Desktop. Open the `TrueHunter_Zoho_Practice` folder.
 7. Select the file named `01_Leads_Import_Data.csv`. Click **"Open"**.
 8. Zoho will show you a preview of the data. You will see columns like First Name, Last Name, Email, Phone, etc.
 9. Zoho will try to match the columns automatically. Check each column:
@@ -54,7 +54,7 @@
 
 **What you will learn:** How to import existing subscribers as Accounts.
 
-**Why this matters:** In TrueHunt, each subscriber is an Account. You need all 30 subscribers in the system.
+**Why this matters:** In TrueHunter, each subscriber is an Account. You need all 30 subscribers in the system.
 
 **PREPARATION:**
 - Download the file: `02_Accounts_Import_Data.csv`
@@ -143,7 +143,7 @@
 
 **What you will learn:** How to import subscription records as Deals.
 
-**Why this matters:** In Zoho CRM, a "Deal" represents a sales opportunity. For TrueHunt, each Deal is a subscription.
+**Why this matters:** In Zoho CRM, a "Deal" represents a sales opportunity. For TrueHunter, each Deal is a subscription.
 
 **PREPARATION:**
 - Download the file: `04_Deals_Import_Data.csv`
@@ -187,7 +187,7 @@
 
 **What you will learn:** How to import your product catalog.
 
-**Why this matters:** TrueHunt sells specific SKUs. You need these in the system to create quotes and track what each subscriber buys.
+**Why this matters:** TrueHunter sells specific SKUs. You need these in the system to create quotes and track what each subscriber buys.
 
 **PREPARATION:**
 - Download the file: `05_Products_Import_Data.csv`
@@ -213,8 +213,8 @@
 10. You should see 20 products.
 
 **PRACTICE TASK:**
-- Find the product "TrueHunt Chicken Adult - 2kg". Note the Product Code: `TH-CA-2KG` and price: Rs.1,099.
-- Find "TrueHunt Dental Treats - 100g". Note the price: Rs.199.
+- Find the product "TrueHunter Chicken Adult - 2kg". Note the Product Code: `TH-CA-2KG` and price: Rs.1,099.
+- Find "TrueHunter Dental Treats - 100g". Note the price: Rs.199.
 - These are the products you will upsell in later exercises.
 
 **CHECKPOINT:** Can you see 20 products with correct prices? If yes, proceed.
@@ -271,7 +271,7 @@
 
 **What you will learn:** How to import past call records.
 
-**Why this matters:** TrueHunt promises fast replies and personal service. You must log every call.
+**Why this matters:** TrueHunter promises fast replies and personal service. You must log every call.
 
 **PREPARATION:**
 - Download the file: `07_Calls_Import_Data.csv`
