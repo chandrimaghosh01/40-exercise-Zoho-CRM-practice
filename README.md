@@ -28,13 +28,13 @@ Plus a **Final Checklist** (15 items), **Quick Reference shortcuts table**, **Tr
 
 | File | Records | Purpose |
 |------|---------|---------|
-| `01_Leads_Import_Data.csv` | 30 | Potential cat parents from Instagram, WhatsApp, referrals, pet communities |
-| `02_Accounts_Import_Data.csv` | 30 | Existing subscribers with ratings (Hot/Warm/Cold) and Bengaluru addresses |
-| `03_Contacts_Import_Data.csv` | 30 | Cat parents linked to their accounts |
-| `04_Deals_Import_Data.csv` | 30 | Subscription deals (Monthly/Bi-weekly/Quarterly) with next reorder dates |
-| `05_Products_Import_Data.csv` | 20 | TrueHunter SKUs (Chicken/Fish/Grain-Free, Treats, Bundles) with prices |
-| `06_Tasks_Import_Data.csv` | 35 | Follow-up tasks (reorders, win-backs, upsells, payment reminders) |
-| `07_Calls_Import_Data.csv` | 15 | Call logs (completed, no answer, retention saves) |
+| [`01_Leads_Import_Data.csv`](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/01_Leads_Import_Data.csv) | 30 | Potential cat parents from Instagram, WhatsApp, referrals, pet communities |
+| [`02_Accounts_Import_Data.csv`](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/02_Accounts_Import_Data.csv) | 30 | Existing subscribers with ratings (Hot/Warm/Cold) and Bengaluru addresses |
+| [`03_Contacts_Import_Data.csv`](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/03_Contacts_Import_Data.csv) | 30 | Cat parents linked to their accounts |
+| [`04_Deals_Import_Data.csv`](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/04_Deals_Import_Data.csv) | 30 | Subscription deals (Monthly/Bi-weekly/Quarterly) with next reorder dates |
+| [`05_Products_Import_Data.csv`](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/05_Products_Import_Data.csv) | 20 | TrueHunter SKUs (Chicken/Fish/Grain-Free, Treats, Bundles) with prices |
+| [`06_Tasks_Import_Data.csv`](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/06_Tasks_Import_Data.csv) | 35 | Follow-up tasks (reorders, win-backs, upsells, payment reminders) |
+| [`07_Calls_Import_Data.csv`](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/07_Calls_Import_Data.csv) | 15 | Call logs (completed, no answer, retention saves) |
 
 ---
 
@@ -44,13 +44,13 @@ Plus a **Final Checklist** (15 items), **Quick Reference shortcuts table**, **Tr
 [Zoho CRM Complete Practice Curriculum](sandbox:///mnt/agents/output/Zoho_CRM_Complete_Practice_Curriculum.md)
 
 **Sample Data Files:**
-- [01 Leads Import Data](sandbox:///mnt/agents/output/01_Leads_Import_Data.csv)
-- [02 Accounts Import Data](sandbox:///mnt/agents/output/02_Accounts_Import_Data.csv)
-- [03 Contacts Import Data](sandbox:///mnt/agents/output/03_Contacts_Import_Data.csv)
-- [04 Deals Import Data](sandbox:///mnt/agents/output/04_Deals_Import_Data.csv)
-- [05 Products Import Data](sandbox:///mnt/agents/output/05_Products_Import_Data.csv)
-- [06 Tasks Import Data](sandbox:///mnt/agents/output/06_Tasks_Import_Data.csv)
-- [07 Calls Import Data](sandbox:///mnt/agents/output/07_Calls_Import_Data.csv)
+- [01 Leads Import Data](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/01_Leads_Import_Data.csv)
+- [02 Accounts Import Data](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/02_Accounts_Import_Data.csv)
+- [03 Contacts Import Data](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/03_Contacts_Import_Data.csv)
+- [04 Deals Import Data](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/04_Deals_Import_Data.csv)
+- [05 Products Import Data](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/05_Products_Import_Data.csv)
+- [06 Tasks Import Data](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/06_Tasks_Import_Data.csv)
+- [07 Calls Import Data](https://github.com/chandrimaghosh01/40-exercise-Zoho-CRM-practice/blob/main/Sample%20Data%20Files/07_Calls_Import_Data.csv)
 
 ---
 
